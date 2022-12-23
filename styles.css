@@ -6,6 +6,7 @@ body{
 	text-align:center;
 	font-family: 'Merriweather', serif;
 	color: #40514E;
+	font-size: 1vw;
 }
 h1{
 	margin: 0 auto 0 auto;
@@ -101,8 +102,6 @@ td{
 	}
 #education{
 	}
-#internship(
-)
 #project{
 }
 #computer{
@@ -111,8 +110,6 @@ td{
 }
 #hobbies{
 }
-#bottom(
-)
 #language{
 }
 #about{
