@@ -56,7 +56,7 @@ td{
 	font-weight: bold;
 }
 .circular{
-	border-radius: 1%;
+	border-radius: 50%;
 	width:50%;
 }
 .navbar {
